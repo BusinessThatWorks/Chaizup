@@ -1,25 +1,26 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2026-01-12 10:31:01.486365",
+ "creation": "2026-01-12 10:51:04.362892",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "section_break_z4pv"
+  "tea_name"
  ],
  "fields": [
   {
-   "fieldname": "section_break_z4pv",
-   "fieldtype": "Section Break"
+   "fieldname": "tea_name",
+   "fieldtype": "Data",
+   "label": "Tea Name"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-01-12 10:33:03.392853",
+ "modified": "2026-01-12 10:51:16.020992",
  "modified_by": "Administrator",
  "module": "Chaizup",
- "name": "Test",
+ "name": "Demo doctype",
  "owner": "Administrator",
  "permissions": [
   {
